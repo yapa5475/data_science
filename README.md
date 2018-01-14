@@ -1,1 +1,2 @@
-# data_science repository Yash Parekh
+# ds-hw
+Homework for CSCI 3022

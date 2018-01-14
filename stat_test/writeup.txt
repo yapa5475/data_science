@@ -1,0 +1,3 @@
+To solve this stat_test homework, I used formulas for degrees of freedom given sample variance and observations, for unbiased sample variance given observations and the mean, t statistic given two means, two n values, and two svar values, and for the p value given two sample sets. 
+
+To solve the bigrams homework, I used the previous bigrams.py first as a guide, then tried to research further bigram formulas to solve this code. I found that it is not easy or straightforward to try to hunt down the correct formulas for the homework assignments. If I had a better idea of what formulas I am supposed to use, these homeworks would be much les stressful. 

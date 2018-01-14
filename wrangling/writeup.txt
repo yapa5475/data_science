@@ -1,0 +1,1 @@
+To solve this homework, we used array sorting and set data structures in order to prepare the data in a cohesive manner. An interesting observation I had from the data was seeing how different key word are more common than others, and made me wonder if it is possible to distinguish, for example, speeches, given only what words were most commonly appeard in the transcript. 
